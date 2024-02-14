@@ -1,0 +1,19 @@
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Lera\Desktop\University\Study\КГ\lab5\lab5\Lab5_12\obj\Debug\Lab5_7.pdb

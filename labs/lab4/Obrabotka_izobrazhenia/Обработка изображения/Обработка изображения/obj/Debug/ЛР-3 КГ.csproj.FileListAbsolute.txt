@@ -1,0 +1,39 @@
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe.config
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.pdb
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Main_Form.resources
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Properties.Resources.resources
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.exe
+C:\Users\hp\Desktop\КГ\ЛР-4\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.pdb
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe.config
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.pdb
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csprojAssemblyReference.cache
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Properties.Resources.resources
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.GenerateResource.cache
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.exe
+C:\Users\Lera\Downloads\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.pdb
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe.config
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.pdb
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csprojAssemblyReference.cache
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Properties.Resources.resources
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.GenerateResource.cache
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.CoreCompileInputs.cache
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.exe
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.pdb
+C:\Users\vant1\Desktop\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Main_Form.resources
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Main_Form.resources
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка_изображения.Properties.Resources.resources
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.GenerateResource.cache
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\ЛР-3 КГ.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.exe
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\obj\Debug\Обработка изображения.pdb
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe.config
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.exe
+C:\Users\Lera\Desktop\University\Study\КГ\lab4\Obrabotka_izobrazhenia\Обработка изображения\Обработка изображения\bin\Debug\Обработка изображения.pdb

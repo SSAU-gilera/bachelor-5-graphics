@@ -1,0 +1,67 @@
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\bin\Debug\Fractalization.exe.config
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\bin\Debug\Fractalization.exe
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\bin\Debug\Fractalization.pdb
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\obj\Debug\Fractalization.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\obj\Debug\Fractalization.MainForm.resources
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.Cache
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\obj\Debug\Fractalization.exe
+C:\Users\я\Desktop\Fractalization (лаба №2 от Артёма)\Fractalization\obj\Debug\Fractalization.pdb
+C:\Users\я\Desktop\Юдина\Fractalization\bin\Debug\Fractalization.exe.config
+C:\Users\я\Desktop\Юдина\Fractalization\obj\Debug\Fractalization.exe
+C:\Users\я\Desktop\Юдина\Fractalization\obj\Debug\Fractalization.pdb
+C:\Users\я\Desktop\Юдина\Fractalization\bin\Debug\Fractalization.exe
+C:\Users\я\Desktop\Юдина\Fractalization\bin\Debug\Fractalization.pdb
+C:\Users\я\Desktop\Юдина\Fractalization\obj\Debug\Fractalization.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Юдина\Fractalization\obj\Debug\Fractalization.MainForm.resources
+C:\Users\я\Desktop\Юдина\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+C:\Users\я\Desktop\Юдина\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.Cache
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\bin\Debug\Fractalization.exe.config
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.exe
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.pdb
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\bin\Debug\Fractalization.exe
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\bin\Debug\Fractalization.pdb
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.csprojResolveAssemblyReference.cache
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.MainForm.resources
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+D:\Лиза Юдина\СГАУ\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\bin\Debug\Fractalization.exe.config
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\bin\Debug\Fractalization.exe
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\bin\Debug\Fractalization.pdb
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.MainForm.resources
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.exe
+C:\Users\hp\Desktop\3 курс Угарин\3 курс\3 курс\3 курс\Компьютерная графика\ЛР 2\Fractalization\obj\Debug\Fractalization.pdb
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\bin\Debug\Fractalization.exe.config
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\bin\Debug\Fractalization.exe
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\bin\Debug\Fractalization.pdb
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.MainForm.resources
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.exe
+C:\Users\hp\Desktop\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.pdb
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.exe
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.pdb
+E:\ЛР 2\Fractalization\bin\Debug\Fractalization.exe.config
+E:\ЛР 2\Fractalization\bin\Debug\Fractalization.exe
+E:\ЛР 2\Fractalization\bin\Debug\Fractalization.pdb
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.csprojAssemblyReference.cache
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.MainForm.resources
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.cache
+E:\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\bin\Debug\Fractalization.exe.config
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\bin\Debug\Fractalization.exe
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\bin\Debug\Fractalization.pdb
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.MainForm.resources
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.Properties.Resources.resources
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.GenerateResource.cache
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.exe
+C:\Users\Lera\Desktop\University\Study\КГ\ЛР 2\Fractalization\obj\Debug\Fractalization.pdb
